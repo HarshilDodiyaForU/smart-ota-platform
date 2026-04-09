@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.App button:hover {
+  background-color: #0056b3;
+}
+
+.ota-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.error {
+  color: red;
+  margin: 10px 0;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  flex-wrap: wrap;
+}
+
+.main-nav button {
+  padding: 10px 20px;
+  background-color: #6c757d;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.main-nav button:hover {
+  background-color: #5a6268;
+}
+
+.main-nav button.active {
+  background-color: #007bff;
+}
+
+.main-nav button.active:hover {
+  background-color: #0056b3;
+}
+
+.logout-btn {
+  background-color: #dc3545 !important;
+  margin-left: auto;
+}
+
+.logout-btn:hover {
+  background-color: #c82333 !important;
+}
+
+.ota-page {
+  max-width: 800px;
+  margin: 0 auto;
+}

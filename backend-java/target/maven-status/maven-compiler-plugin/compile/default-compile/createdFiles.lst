@@ -1,0 +1,17 @@
+com\ota\repository\DeviceUpdateHistoryRepository.class
+com\ota\entity\Device.class
+com\ota\SecurityConfig.class
+com\ota\JwtUtil.class
+com\ota\config\SwaggerConfig.class
+com\ota\repository\DeviceRepository.class
+com\ota\controller\DeviceController.class
+com\ota\repository\OtaUpdateRepository.class
+com\ota\entity\OtaUpdate.class
+com\ota\TestProjectApplication.class
+com\ota\controller\FirmwareUploadController.class
+com\ota\JwtAuthenticationFilter.class
+com\ota\service\OtaUpdateService.class
+com\ota\config\WebConfig.class
+com\ota\controller\OtaHistoryController.class
+com\ota\service\DeviceService.class
+com\ota\entity\DeviceUpdateHistory.class

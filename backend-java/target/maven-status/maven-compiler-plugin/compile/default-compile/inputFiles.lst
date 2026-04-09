@@ -1,0 +1,17 @@
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\config\SwaggerConfig.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\config\WebConfig.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\controller\DeviceController.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\controller\FirmwareUploadController.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\controller\OtaHistoryController.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\entity\Device.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\entity\DeviceUpdateHistory.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\entity\OtaUpdate.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\JwtAuthenticationFilter.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\JwtUtil.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\repository\DeviceRepository.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\repository\DeviceUpdateHistoryRepository.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\repository\OtaUpdateRepository.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\SecurityConfig.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\service\DeviceService.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\service\OtaUpdateService.java
+C:\Users\harsh\OneDrive\Desktop\smart-ota-platform\backend-java\src\main\java\com\ota\TestProjectApplication.java

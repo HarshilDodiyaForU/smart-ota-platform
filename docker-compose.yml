@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend-java
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8081"
+    volumes:
+      - ./backend-java/uploads:/app/uploads
+      - ./backend-java/data:/app/data
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker
+    networks:
+      - ota-network
+
+  frontend:
+    build:
+      context: ./frontend-react
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    networks:
+      - ota-network
+
+networks:
+  ota-network:
+    driver: bridge
+

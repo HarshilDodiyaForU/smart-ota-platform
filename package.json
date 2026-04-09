@@ -1,0 +1,19 @@
+{
+  "name": "smart-ota-platform",
+  "version": "1.0.0",
+  "description": "[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.4-brightgreen.svg)](https://spring.io/projects/spring-boot)\r [![React](https://img.shields.io/badge/React-18.0-blue.svg)](https://reactjs.org/)\r [![Flutter](https://img.shields.io/badge/Flutter-3.35-blue.svg)](https://flutter.dev/)\r [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)\r [![JWT](https://img.shields.io/badge/JWT-Authentication-orange.svg)](https://jwt.io/)\r [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)",
+  "scripts": {
+    "dev:backend": "npm run dev --workspace backend",
+    "dev:frontend": "npm run dev --workspace frontend",
+    "build": "npm run build --workspace backend && npm run build --workspace frontend"
+  },
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
