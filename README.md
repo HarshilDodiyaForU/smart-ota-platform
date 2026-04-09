@@ -6,6 +6,11 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 [![JWT](https://img.shields.io/badge/JWT-Authentication-orange.svg)](https://jwt.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.3-green)
+![React](https://img.shields.io/badge/React-18-blue)
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 
 > **Enterprise-grade Over-The-Air (OTA) update platform with real-time fleet management, JWT authentication, and multi-client support for seamless firmware distribution and device monitoring.**
 
@@ -300,19 +305,17 @@ spring:
 
 ## 👥 Team
 
-### Group Members
-- **[Your Name]** - Full Stack Developer
-- **[Member 2]** - Backend Developer
-- **[Member 3]** - Frontend Developer
-- **[Member 4]** - Mobile Developer
+👨‍💻 Developed by: Harshil Dodiya
+🎓 B.Tech IT (4th Year)
+📍 Ahmedabad, India
 
 ### Supervisor
-- **[Supervisor Name]** - [Title/Department]
+- **[Supervisor Name]** - [DR. Sanjay Sonar , School of Computing And Technology , Institute of advanced research]
 
 ### Contact
-- **Email:** [your-email@example.com]
-- **GitHub:** [github.com/yourusername]
-- **Project Repository:** [github.com/yourusername/smart-ota-platform]
+- **Email:** [harshildodiya0333@gmail.com]
+- **GitHub:** [(https://github.com/HarshilDodiyaForU)]
+- **Project Repository:** [github.com/HarshilDodiyaForU/smart-ota-platform]
 
 ---
 
@@ -330,6 +333,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All open-source contributors whose libraries made this project possible
 
 ---
+:
+
+🏗️ System Architecture
+
+<img width="1024" height="1100" alt="image" src="https://github.com/user-attachments/assets/b8daeb86-24b5-4be3-b7ea-d8549d78ef4d" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c9c2d3c0-a8ee-4f68-b8d7-23b89efc8124" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bd99d2b7-2e42-470f-83b8-435d4dc2e993" />
+
+
+
+🎯 Project Impact
+- Reduced manual firmware update effort by automating OTA deployment
+- Enabled real-time device monitoring and update tracking
+- Designed scalable architecture supporting multiple backend services
+- Simulated real IoT environment using Python-based device emulator
 
 ## 📚 Additional Resources
 
@@ -344,6 +362,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by the Smart OTA Platform Team**
 
-[⭐ Star this repo](https://github.com/yourusername/smart-ota-platform) | [🐛 Report Bug](https://github.com/yourusername/smart-ota-platform/issues) | [💡 Request Feature](https://github.com/yourusername/smart-ota-platform/issues)
+[⭐ Star this repo](https://github.com/HarshilDodiyaForU/smart-ota-platform) | [🐛 Report Bug](https://github.com/HarshilDodiyaForU/smart-ota-platform/issues) | [💡 Request Feature](https://github.com/HarshilDodiyaForU/smart-ota-platform/issues)
 
 </div>
